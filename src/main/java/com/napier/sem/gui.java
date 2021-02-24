@@ -5,6 +5,8 @@ import java.awt.*;
 
 //Test of Java GUI to see if it'd work
 
+//Needs to be done, ask Kevin about TUI or GUI
+
 public class gui {
     public static void main(String args[]) {
 
